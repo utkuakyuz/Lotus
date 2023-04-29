@@ -1,6 +1,8 @@
 # Lotus 0.0.1
 Lotus is a Python program developed as a Business Intelligence tool with a Graphical User Interface (GUI). The program compares data sheets, finds broken cells and displays them with a report. The following sections describe how to use the Lotus program and provide an overview of its features.
 
+This project reduced the time cost from days to 5 seconds using data analytics, and improved operational efficiency.
+
 ## Getting Started
 Before starting the Lotus program, the user must ensure that the required packages are installed on their computer. The program uses the following packages:
 
